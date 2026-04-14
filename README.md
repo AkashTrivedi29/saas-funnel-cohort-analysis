@@ -136,12 +136,3 @@ python notebooks/02_funnel_cohort_analysis.py
 | Matplotlib / Seaborn | 8 analytical charts including heatmap |
 | Power BI / Tableau | Interactive dashboard |
 | GitHub | Version control + portfolio |
-
----
-
-## About
-
-Part of a **7-day Canadian Data Analyst Portfolio Sprint**.
-
-**Target roles:** Product Analyst · Growth Analyst · Junior Data Analyst · CRM Analyst
-**NOC Code:** 21223 — Data Analyst (TEER 2, CEC eligible)
